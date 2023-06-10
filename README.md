@@ -2,7 +2,7 @@
 Venom Hackathon
 submission for the Dorahack Venom Hackathon
 
-project has succesfully deployed Dex to Venon Testnet. Some examples include:
+project has succesfully deployed Dex to Venom Testnet. Some examples include:
 https://testnet.venomscan.com/accounts/0:25c5d942209f49ea31ea0f1baede19922f913fb05808f2d7d5924e4896ee18c1/source-code
 
 https://testnet.venomscan.com/accounts/0:9ca3347a0729e922b8564dd598c4229f45717c787ebc60d42ef91987873a4cf0/source-code
